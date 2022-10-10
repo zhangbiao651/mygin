@@ -10,4 +10,4 @@
 * 错误恢复
 
 ## 待完善
-  context 中的about方法还未实现
+  context 中的abort方法还未实现
